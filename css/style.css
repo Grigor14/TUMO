@@ -1,0 +1,18 @@
+.b25 {
+    background-color: rgb(173, 89, 14);
+  }
+  .b1 {
+    background-color: rgb(235, 201, 52);
+  }
+  body{
+    background-image: url("https://thumbs.dreamstime.com/b/texture-wall-made-modern-relief-brown-brick-ba-texture-wall-made-modern-relief-brown-brick-119223318.jpg");
+  }
+
+    .bc{
+      height: 350px;
+
+    }
+    .bnm{
+      height :200px;
+      width: 300px;
+    }
